@@ -1,1 +1,2 @@
-samples
+samples/samples*/*.wav
+samples/samples*/*.mp3
